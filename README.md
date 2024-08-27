@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Camilo Enriquez, i recently started using GitHub and i like it. I love learning new programming languages.
 
-I am currently working with the repositorie called 
+I am currently working with the repository called 
 ### ChanGo!
 Is a **Freelance Job Board**. It's meant to help people to become freelancers, but not only remotely. You can do it **locally**!
 
