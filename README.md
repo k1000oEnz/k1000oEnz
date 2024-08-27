@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Camilo Enriquez, i recently started using GitHub and i like it. I love learn new programming languages.
+My name is Camilo Enriquez, i recently started using GitHub and i like it. I love learning new programming languages.
 
 I am currently working with the repositorie called 
 ### ChanGo!
